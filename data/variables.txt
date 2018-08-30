@@ -1,0 +1,24 @@
+IDround - nr gracza i runda
+country - kraj w ktorym bylo badanie
+ID - nr gracza
+block - nr bloku
+round - nr rundy w calej grze
+parPro - gracz proposerem (1)
+prevParPro - gracz proposerem (1) w poprzedniej rundzie
+touch - czy byl dotyk (tak 1)
+prevTouch - czy w poprzedniej rundzie byl dotyk (tak 1)
+offerAg - wartosc oferty dla agenta
+offerPar - wartosc oferty dla gracza
+accepted - czy zaakceptowana (tak 1)
+agent - 1 wysoki status (ten lysy), 0 niski status (ten w okularach i czapce)
+prevAgent - j.w. w poprzedniej rundzie
+atg - homofobia
+mras - postrzeganie rol meskich w stereotypowy sposob (facet nie placze, jest twardy, zawsze mu sie chce sexu, etc.)
+nft - potrzeba dotyku interpersonalnego
+socPres - obecnosc spoleczna
+emb - ucielesnienie
+stat - na ile wazny jest status spoleczny
+disgust - ogolna brzydliwosc (3 komponenty - wstret biologiczny, moralny, seksualny)
+disgust_s - sam wynik podskali wstretu seksualnego
+
+
